@@ -1,0 +1,43 @@
+**********************************************************************************
+**************************Ayuda sobre comando Reporting***************************
+**********************************************************************************
+
+Este comando es utilizado para realizar consultas sobre las listas presupuestadas.
+A continuacion, se detalla cada opcion y filtro disponible:
+
+- m: permite mostrar por lista presupuestada y en forma ordenada, los precios mas
+bajos para cada item presente en la misma obviando los precios de referencia.
+
+- p: permite mostrar por lista presupuestada y en forma ordenada, los precios de
+referencia presentes en la misma.
+
+- d: permite mostrar por lista presupuestada y en forma ordenada, los precios mas
+bajos para cada item presente en la misma agrupados por lugar de compra.
+
+- f: permite mostrar por lista presupuestada y en forma ordenada, los items sin 
+precio asignado.
+
+- mp: permite mostrar por lista presupuestada y en forma ordenada, los precios mas
+bajos para cada item presente en la misma con su correspondiente precio de 
+referencia y una descripcion indicando si el precio es menor, mayor a este o si no
+fue posible encontrar dicho precio de referencia.
+
+- dp: permite mostrar por lista presupuestada y en forma ordenada, los precios mas
+bajos para cada item presente en la misma agrupados por lugar de compra con su 
+correspondiente precio de referencia y una descripcion indicando si el precio es 
+menor, mayor a este o si no fue posible encontrar dicho precio de referencia.
+
+- u: permite elegir de un listado, los usuarios por los que se quiere filtrar los
+resultados de la opcion elegida.
+
+- x: permite elegir de un listado, los lugares de compra por los que se quiere 
+filtrar los resultados de la opcion elegida.
+
+- s: utilizado para finalizar el reporte.
+
+- g: por cada opcion elegida, podra optarse por guardar el resultado de la consulta 
+realizada o solo observarlo por pantalla.
+
+************************************************************************************
+************************************************************************************
+************************************************************************************
